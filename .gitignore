@@ -1,10 +1,4 @@
-*.csv
-*.zip
-*.xlsx
-*.json
-
-*.csv
-*.xlsx
-*.zip
-*.json
 .ipynb_checkpoints/
+*.zip
+*.xlsx
+*.json
